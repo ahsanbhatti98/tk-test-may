@@ -1,0 +1,38 @@
+form{
+
+    width: 300px;
+    margin: auto;
+    border-color: white;
+    background-color: #ffffff8c;
+    padding: 28px 58px;
+    border-radius: 13px;
+    margin-top: 99px;
+   
+
+}
+body{
+    background-image: linear-gradient(#58d0de,#a3d389);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+input{
+    width: -webkit-fill-available;
+    margin-bottom: 15px;
+    height: 23px;
+
+}
+button{
+    background-color: #44a7bb;
+    border: transparent;
+    color: white;
+    padding: 8px 39px;
+    font-size: 20px;
+    border-radius: 7px;
+    margin-right: 12px;
+}
+button:hover{
+    background-color: #82bc3f;
+}
+a{
+    color: black;
+}

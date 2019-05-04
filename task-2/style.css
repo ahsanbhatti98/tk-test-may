@@ -1,0 +1,36 @@
+#sec{
+    background-color: #e2e4e5;
+}
+body{
+    background-color: #e2e4e5;
+
+}
+h1{
+    
+    font-weight: bold;
+    background-color: #eceff1;
+    padding-left: 533px;
+    text-shadow: 0px 1px red;
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+
+}
+
+.one{
+    display: inline-flex;
+}
+figcaption{
+    padding-left: 124px;
+    padding-top: 18px;
+    font-family: 'Pacifico', cursive;
+
+}
+figcaption:hover{
+    color: red;
+    background-color: #eceff1;
+}
+figure:hover{
+    border: 5px solid #eceff1;
+    cursor: pointer;
+}
+
