@@ -1,0 +1,76 @@
+#chart-btn{
+    text-decoration: none;
+    background-color:#c63928;
+    color: white;
+    padding: 13px 26px;
+    
+}
+#chart-btn:hover{
+    background-color: #ec4d50;
+}
+#start-btn{
+    text-decoration: none;
+    background-color: #fdd835;
+    color: blue;
+    padding: 6px 26px;
+    border: 3px solid;
+    font-size: 27px;
+}
+#start-btn:hover{
+    background-color: #2a61fb;
+    color: #fdd835;
+}
+#log-btn{ 
+    
+    text-decoration: none;
+    background-image:linear-gradient(#5bd0d7,#9ed38c) ;
+    color: #eeeef3;
+    padding: 13px 32px;
+    border-radius: 30px;
+    
+}
+#sign-btn{
+    text-decoration: none;
+    background-color: white;
+    color: #6749ea;
+    padding: 13px 32px;
+    border-radius: 14px;
+    border: 3px solid;
+    font-size: 19px;
+ } 
+ #sign-btn:hover{
+     background-color: #6749ea;
+     color: white;
+  }
+ #sub-btn{
+    text-decoration: none;
+    background-image:linear-gradient(#fac532,#f5a531) ;
+    color: white;
+    padding: 13px 42px;
+    border-radius: 9px;
+    border: 3px solid;
+    font-size: 19px;
+    
+}
+#sub-btn:hover{
+    background-color: #dd710b;
+}
+#twit-btn{
+    text-decoration: none;
+    color: #37a1f3;
+    border: 2px solid;
+    padding: 9px;
+    border-radius: 35px;
+}
+#twit-btn:hover{
+    background-color: #37a1f3;
+    color: white;
+
+}
+a:hover{
+    cursor: pointer;
+    
+}
+
+}
+ 
